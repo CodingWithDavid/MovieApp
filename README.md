@@ -2,7 +2,7 @@
 
 This is a fun little application that uses 3rd party APIs to access movie information and display it on a nice page.  
 
-by [David Gallivan](http://twitter.com/CodingwithDavid)
+by [CodingWithDavid](http://twitter.com/CodingwithDavid)
 
 
 
